@@ -1,0 +1,14 @@
+body
+{
+	background-image: url(ProjectImages/ForgotUsername.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: sans-serif;
+}
+
+.error {
+  color: #FF0000;
+}

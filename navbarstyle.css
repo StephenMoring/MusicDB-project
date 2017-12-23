@@ -1,0 +1,26 @@
+.navbar {
+    background-color:black !important;
+}
+
+body
+{
+	background-image: url(ProjectImages/Welcome.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: sans-serif;
+}
+
+li
+{
+    width: 130px;
+    text-align: center;
+}
+
+
+a
+{
+    color: grey !important;
+}
